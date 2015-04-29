@@ -1,0 +1,9 @@
+package my.project.gop.main;
+
+public class VectorToFloat {
+
+	public VectorToFloat() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

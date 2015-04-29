@@ -1,0 +1,9 @@
+package my.project.gop.main;
+
+public class GameWindow {
+
+	public GameWindow() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package my.project.gop.main;
+
+public class LoadImageFrom {
+
+	public LoadImageFrom() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
