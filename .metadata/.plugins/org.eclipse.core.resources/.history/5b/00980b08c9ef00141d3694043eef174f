@@ -1,0 +1,9 @@
+package my.tdl.gamestate;
+
+public abstract class GameState {
+
+	public GameState() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

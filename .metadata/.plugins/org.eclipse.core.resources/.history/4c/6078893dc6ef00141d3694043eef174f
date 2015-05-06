@@ -1,0 +1,9 @@
+package my.project.gop.main;
+
+public class IDGameLoop {
+
+	public IDGameLoop() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
